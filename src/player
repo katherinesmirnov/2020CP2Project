@@ -1,0 +1,5 @@
+balls left
+if gets goal
+  balls let--;
+display()
+  png

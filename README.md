@@ -1,8 +1,9 @@
 # Programming II portfolio
 ## Katherine Smirnov
-### ksmirnov802@gmail.com
+#### ksmirnov802@gmail.com
+#### kathsmir9671@granitesd.org
 
-pool
+
 
 ## Documentation
 1. video of project

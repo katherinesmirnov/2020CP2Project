@@ -1,4 +1,6 @@
-# 2020CP2Project
+# Programming II portfolio
+## Katherine Smirnov
+### ksmirnov802@gmail.com
 
 pool
 
